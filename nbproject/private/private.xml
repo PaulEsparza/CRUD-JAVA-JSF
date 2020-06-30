@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Paul%20Esparza/Documents/NetBeansProjects/CRUD_MVC_JAVA_JSF/web/index.xhtml</file>
+            <file>file:/C:/Users/Paul%20Esparza/Documents/NetBeansProjects/CRUD_MVC_JAVA_JSF/web/Consultar.xhtml</file>
+            <file>file:/C:/Users/Paul%20Esparza/Documents/NetBeansProjects/CRUD_MVC_JAVA_JSF/src/java/BaseDeDatos/Conexion.java</file>
+            <file>file:/C:/Users/Paul%20Esparza/Documents/NetBeansProjects/CRUD_MVC_JAVA_JSF/web/Listar.xhtml</file>
+            <file>file:/C:/Users/Paul%20Esparza/Documents/NetBeansProjects/CRUD_MVC_JAVA_JSF/src/java/usuarioDAO/UsuarioDAO.java</file>
+            <file>file:/C:/Users/Paul%20Esparza/Documents/NetBeansProjects/CRUD_MVC_JAVA_JSF/web/Crear.xhtml</file>
+            <file>file:/C:/Users/Paul%20Esparza/Documents/NetBeansProjects/CRUD_MVC_JAVA_JSF/src/java/Controlador/UsuarioBean.java</file>
+            <file>file:/C:/Users/Paul%20Esparza/Documents/NetBeansProjects/CRUD_MVC_JAVA_JSF/web/Editar.xhtml</file>
+            <file>file:/C:/Users/Paul%20Esparza/Documents/NetBeansProjects/CRUD_MVC_JAVA_JSF/src/java/Modelo/Usuario.java</file>
+        </group>
+    </open-files>
+</project-private>
